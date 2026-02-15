@@ -11,48 +11,32 @@
 ---
 
 ### 🌟 About Me
-Hi! I'm **Egata Kebede** — a backend-first developer with a passion for **Go** and **React**.  
-I create **efficient APIs**, **modern dashboards**, and full-stack applications that are both **fast** and **elegant**.  
+Hi — I'm **Egata Kebede**.
 
-- 🔭 Currently working on Go backend & React frontend projects  
-- 🌱 Learning **clean architecture**, **microservices**, and **DevOps automation**  
-- 💬 Ask me about **APIs**, **React**, **SQL**, or **automation**  
-- ⚡ Fun fact: I love turning ideas into real code ✨
+- Backend-first developer. Go & React.
+- I build APIs and dashboards.
+- Currently: Go backends and React frontends.
+- Learning: clean architecture, microservices, DevOps.
+- Ask me about APIs, SQL, or automation.
 
 ---
 
 ### 🛠️ Tech Stack
 
-```markdown
-<!-- ================= Hero Header ================= -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=0078D7&width=800&lines=👋+Hi+there,+I'm+Egata+Kebede!;💻+Backend-first+Engineer+%7C+Go+%26+React;🚀+Building+Scalable+Apps+%26+Clean+Code" alt="Typing Animation"/>
-</p>
+#### 💻 Languages & Frameworks
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-181717?style=for-the-badge&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E01D?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Logo"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Logo"/>
-</p>
-
-<p align="center">A backend-first engineer focused on reliable APIs, performant frontends, and clean engineering practices.</p>
-
----
-
-### 🌟 About Me
-Hi — I'm **Egata Kebede**. I focus on building maintainable, high-performance applications with Go on the backend and React on the frontend.
-
-- 🔭 Currently building production-ready backends and responsive dashboards
-- 🌱 Learning clean architecture, microservices, and DevOps automation
-- 💬 Ask me about APIs, SQL, performance tuning, or frontend engineering
-- ⚡ Fun: I enjoy automating workflows and turning ideas into working demos
-
----
-
-### 🛠️ Tech Snapshot
-
-Languages & frameworks: Go · Gin · React · JavaScript · HTML · CSS
-
-Tools & platforms: Docker · GitHub Actions · PostgreSQL · SQLite · VS Code
+#### ⚙️ Tools & Platforms
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -60,45 +44,42 @@ Tools & platforms: Docker · GitHub Actions · PostgreSQL · SQLite · VS Code
 
 ![Egata's GitHub stats](https://github-readme-stats.vercel.app/api?username=egatakebede&show_icons=true&theme=blueberry)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=egatakebede&layout=compact&theme=blueberry)
+![Streak Stats](https://streak-stats.demolab.com?user=egatakebede&theme=blueberry)
 
 ---
 
-### 🚀 Featured Projects
-These are highlights — open the repository list to see full details: https://github.com/egatakebede?tab=repositories
+### 🌐 Connect With Me
 
-| Project | What / Tech |
-|---|---|
-| 🛠 **Go REST API** | Scalable API using Go + Gin + PostgreSQL — backend services and integrations |
-| 📊 **React Dashboard** | Interactive analytics UI with React and Tailwind CSS |
-| ⚡ **CI/CD Pipelines** | GitHub Actions + Docker for repeatable deployments |
-| 🌐 **Full-Stack Demo** | Example app integrating Go backend + React frontend |
-
----
-
-### 🌍 Open Source & Contributions
-- I regularly contribute to open-source projects and maintain a few utilities and demos. See my contributions and repositories on my GitHub: https://github.com/egatakebede
-- Typical contributions: bug fixes, documentation improvements, utilities, and small libraries.
-
----
-
-### 🔭 Currently Learning
-- Clean Architecture patterns for Go
-- Microservices observability and tracing
-- Automation: CI/CD improvements and IaC basics
-
----
-
-### 🌐 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egatakebede)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egatakebede)  
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/egatakebede)
 
 ---
 
-### 💬 Want to collaborate?
-- Open to collaboration, contract work, and mentoring. If you'd like to work together or review specific repos, ping me on LinkedIn or open an issue on the repository you'd like help with.
+### 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🛠 **Go REST API** | Scalable backend API built using Go + Gin + PostgreSQL |
+| 📊 **React Dashboard** | Interactive dashboard built with React & Tailwind |
+| ⚡ **CI/CD Pipeline** | Automated deployment using GitHub Actions & Docker |
+| 🌐 **Full-Stack Demo** | Integrated Go backend + React frontend project |
+
+
+
+### 🌍 Open Source & Contributions
+
+- I contribute bug fixes and docs to open-source projects.
+- I maintain small utilities and demo projects.
+- See my repos: https://github.com/egatakebede
 
 ---
 
-⭐ Thanks for visiting — let's build something useful! 🚀
+### 💬 Fun Section
 
-```
+- 🎯 Goal: Build maintainable, scalable apps
+- 💡 Motto: Code is poetry
+- ✨ Fun: Automating workflows
+
+---
+
+⭐ Thanks for visiting my profile! Let's build something amazing! 🚀
