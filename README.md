@@ -64,9 +64,7 @@ I create **efficient APIs**, **modern dashboards**, and full-stack applications 
 | ⚡ **CI/CD Pipeline** | Automated deployment using GitHub Actions & Docker |
 | 🌐 **Full-Stack Demo** | Integrated Go backend + React frontend project |
 
-*(Add links/screenshots for extra visual impact)*
 
----
 
 ### 💬 Fun Section
 
