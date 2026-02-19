@@ -2,8 +2,9 @@
 
 <!-- Developer GIF -->
 <p align="center">
-  <img src="https://media.tenor.com/images/2461104302247665708/tenor.gif" alt="Developer GIF" width="400"/>
+  <img src="https://media.tenor.com/XxjHqO8jF9AAAAAC/developer.gif" alt="Developer GIF" width="400"/>
 </p>
+
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=egatakebede&label=Profile%20views&color=0e75b6&style=flat" alt="egatakebede" /> 
