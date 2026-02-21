@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Egata Kebede</h1>
+<h1 align="center">Hi 👋, I'm Egata Kebede </h1>
 
 <!-- Developer GIF -->
 <p align="center">
