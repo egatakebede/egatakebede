@@ -1,36 +1,40 @@
-<h1 align="center">Hi 👋, I'm Egata Kebede </h1>
+# annah11-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=annah11.annah11" />
 
-<!-- Developer GIF -->
-<p align="center">
-  <img src="https://media.tenor.com/XxjHqO8jF9AAAAAC/developer.gif" alt="Developer GIF" width="400"/>
-</p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hanna+Mesfin!;" />
+</h1>
+
+<h3 align="center">A passionate software developer from ethiopia</h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on Backend dev
+ 
 
 
-<p align="left"> 
-  <a href="https://twitter.com/egatakebede" target="blank">
-    <img src="https://img.shields.io/twitter/follow/egatakebede?logo=twitter&style=for-the-badge" alt="egatakebede" />
-  </a> 
-</p>
-
-- 🌱 I’m currently learning **Gin**  
-
-- 💬 Ask me about **React, Go, JS, Gin, AWS**  
-
-- 📫 How to reach me **egatakebede7@gmail.com**  
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/egatakebede" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="egatakebede" height="30" width="40" />
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:Hanamesfin67@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=green" />
   </a>
-  <a href="https://www.topcoder.com/members/1046" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="1046" height="30" width="40" />
+  <a href="https://linkedin.com/in/Egatakebede target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-</p>
+  <a href="https://egatakeebede.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
@@ -86,17 +90,35 @@
   </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-</p>
+  </a> >
+</div>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=egatakebede&show_icons=true&locale=en&layout=compact" alt="egatakebede" />
-</p>
+<br/>
+<hr/>
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=egatakebede&show_icons=true&locale=en" alt="egatakebede" />
-</p>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+ <br/><br/>
+</div>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=egatakebede&" alt="egatakebede" />
-</p>
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=annah11&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=annah11&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-annah11.vercel.app/api/top-langs/?username=egatakebede&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+</div>
+
+<br/>
