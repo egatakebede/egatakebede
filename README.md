@@ -1,8 +1,8 @@
 # annah11-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=annah11.annah11" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=egatakebede.egatakebede" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hanna+Mesfin!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Egata+Kebede!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from ethiopia</h3>
@@ -18,7 +18,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:Hanamesfin67@gmail.com">
+  <a href="mailto:egatakebede7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=green" />
   </a>
   <a href="https://linkedin.com/in/Egatakebede target="_blank">
@@ -106,10 +106,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=annah11&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=annah11&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=egatakebede&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=egatakebede&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-annah11.vercel.app/api/top-langs/?username=egatakebede&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-egatakebede.vercel.app/api/top-langs/?username=egatakebede&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
