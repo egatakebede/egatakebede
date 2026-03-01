@@ -11,7 +11,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on <img src = "https://www.pinterest.com/pin/38351034304863252/">
+ 🔭 I’m currently working on <img src = "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*CvuKrxtgYxY57M05SlYsvA.gif">
  
 
 
