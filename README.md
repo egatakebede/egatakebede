@@ -11,8 +11,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on <img src = "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*CvuKrxtgYxY57M05SlYsvA.gif">
- 
+ 🔭 I’m currently working on GO
 
 
  </div>
