@@ -11,7 +11,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on GO
+ 🔭 I’m currently working on GOLANG
 
 
  </div>
@@ -30,7 +30,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center"> ⚒️ Languages-Frameworks-Tools ⚒️ </h2>
 <br/>
 <div align="center">
      <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
