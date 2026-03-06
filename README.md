@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Egata+Kebede!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from ethiopia</h3>
+<h3 align="center">A Passionate Software Developer From Ethiopia</h3>
 
 <br/>
 
@@ -30,7 +30,7 @@
 
  <hr/>
  
-<h2 align="center"> ⚒️ Languages-Frameworks-Tools ⚒️ </h2>
+<h2 align="center"> ⚒️ Languages - Frameworks-Tools ⚒️ </h2>
 <br/>
 <div align="center">
      <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
@@ -111,7 +111,7 @@
   <img width=325 align="center" src="https://github-readme-stats-egatakebede.vercel.app/api/top-langs/?username=egatakebede&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br/><br/>
+<br/> <br/>
 
 <hr/>
 
