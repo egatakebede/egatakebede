@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center">
-  🔭 Backend development in Go, currently building frontend skills with React during my internship
+  🔭 Backend development in laravel, currently building frontend skills with React during my internship
 </div>
 
 <div align="center">
