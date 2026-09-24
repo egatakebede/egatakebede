@@ -5,11 +5,6 @@
 <h3 align="center">A Passionate Software Developer From Ethiopia</h3>
 
 <br/>
-
-<div align="center">
-  🔭 Backend development in laravel, currently building frontend skills with React during my internship
-</div>
-
 <div align="center">
   <a href="mailto:egatakebede7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-00ADB5?style=for-the-badge&logo=gmail&logoColor=white" />
